@@ -1,4 +1,4 @@
-garwan-blog-1
-=============
+hibernate2pc
+============
 
-Distribuované transakcie bez JEE aplikačného servera
+An Spring+Hibernate+Atomikos example
