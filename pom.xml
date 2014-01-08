@@ -9,16 +9,16 @@
 
 	<name>hibernate2pc</name>
 
-	<description>An Sping + Hibernate + Atomicos example</description>
-
-	<scm>
-		<url>git@github.com:garwan/garwan-blog-1.git</url>
-	</scm>
+	<description>An Sping + Hibernate + Atomikos example</description>
 
 	<organization>
 		<url>www.garwan.sk</url>
 		<name>Garwan Consulting</name>
 	</organization>
+
+	<scm>
+		<url>git@github.com:garwan/garwan-blog-1.git</url>
+	</scm>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
